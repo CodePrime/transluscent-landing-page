@@ -15,7 +15,7 @@
       <!--start column-->
       <div class="col-lg-12">
        <div id="centerButton">
-        <div style="position: relative; top:50%; margin-top:20px;margin-left:150px">
+        <div style="position: relative; top:50%; margin-top:20px;margin-left:120px">
         <p>Reserve Now</p>
         </div>
        </div>
@@ -30,7 +30,7 @@
       <div class="col-md-6" id="mainPanelLeft">
 
        <div class="mainText">
-         <p>About Us</p>
+         <p>About Our Hotel</p>
        </div>
        <div class="applyTransparency"> <!--start transparency layer-->
         <div class="mainBottomLayer"> 
