@@ -70,8 +70,8 @@ body {
     /*background-image: url("images/button-bg.jpg");*/
     overflow:hidden;
     text-shadow: 0px 2px #000;
-    -moz-box-shadow: 0px 5px 2px  #fff;
-	-webkit-box-shadow: 0 5px 2px #fff;
+    -moz-box-shadow: 0px 3px 2px  #fff;
+	-webkit-box-shadow: 0 3px 2px #fff;
 }
 
 #centerButton:hover{

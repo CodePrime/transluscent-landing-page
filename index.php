@@ -30,7 +30,7 @@
       <div class="col-md-6" id="mainPanelLeft">
 
        <div class="mainText">
-         <p>About Us</p>
+         <p>About Our Hotel</p>
        </div>
        <div class="applyTransparency"> <!--start transparency layer-->
         <div class="mainBottomLayer"> 
