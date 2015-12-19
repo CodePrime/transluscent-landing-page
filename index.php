@@ -15,7 +15,7 @@
       <!--start column-->
       <div class="col-lg-12">
        <div id="centerButton">
-        <div style="position: relative; top:50%; margin-top:20px;margin-left:150px">
+        <div style="position: relative; top:50%; margin-top:20px;margin-left:120px">
         <p>Reserve Now</p>
         </div>
        </div>

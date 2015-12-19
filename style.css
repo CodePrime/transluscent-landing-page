@@ -1,10 +1,11 @@
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300); /*google fonts Open Sans Condensed*/
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300); /*google fonts*/
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
 
 body {
 	max-width: 2050px;
-	/*min-width:1050px;*/
 }
+
 .mainBottomLayer{
 	text-align:center;
 }
@@ -47,12 +48,11 @@ body {
     height:200px;
     width:200px;
     z-index: 5;
-
 }
 
 #centerButton {
 	position: absolute;
-	font-family: 'Open Sans Condensed', sans-sefif;
+	font-family: 'Oswald', sans-sefif;
 	font-size: 70px;
 	color:white;
     top: 50%;
@@ -64,18 +64,25 @@ body {
     z-index:4;
     border-bottom:8px solid #329900;
     border-left:2px solid #329900;
-    border-right:2px solid #329900;
+    border-right: 2px solid #267700;
     border-radius:10px;
-    background-color:#43cc00;
+    background: linear-gradient(#e1ffd2,#43cc00);
     /*background-image: url("images/button-bg.jpg");*/
     overflow:hidden;
-    text-shadow: 2px 3px #000;
-    -moz-box-shadow: 0px 5px 3px  #fff;
-	-webkit-box-shadow: 0 5px 3px #fff;
+    text-shadow: 0px 2px #000;
+    -moz-box-shadow: 0px 5px 2px  #fff;
+	-webkit-box-shadow: 0 5px 2px #fff;
 }
 
 #centerButton:hover{
 	cursor: pointer;
+	-moz-box-shadow: 0px 3px 2px #000;
+	-webkit-box-shadow: 0px 3px 2px #000;
+	text-shadow: 0px -2px #000;
+    background:linear-gradient,#43cc00,#e1ffd2);
+	border-bottom:8px solid #267700;
+    border-left:2px solid #267700;
+    border-right: 2px solid #267700;
 }
 
 #mainPanelLeft {
